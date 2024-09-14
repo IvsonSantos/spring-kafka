@@ -1,0 +1,12 @@
+producer
+    envia mensagens para o message broker
+
+message broker
+    armazena mensagens em queues
+
+consumer
+    se inscreve e escuta mensagens do message broker
+
+kafka permite aplicacoes publicar ou subscrever em data ou event streams
+processa dados em real time
+e tolerante a falhas
